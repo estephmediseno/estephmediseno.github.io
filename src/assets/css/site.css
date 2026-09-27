@@ -45,6 +45,7 @@ code {
   position: sticky;
   top: 0;
   z-index: 10;
+  overflow: hidden;
 }
 .header-inner {
   display: flex;
@@ -118,11 +119,34 @@ h3 { font-size: 1.15rem; margin: 0 0 0.5rem; }
 .card a { text-decoration: none; color: inherit; display: block; }
 .card a:hover h3 { color: var(--accent); }
 
-.steps { counter-reset: step; display: grid; gap: 1.1rem; margin-top: 1rem; }
-.step { display: grid; grid-template-columns: 3rem 1fr; gap: 0.8rem; }
+.steps {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 1.2rem;
+  counter-reset: step;
+}
+.step {
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  column-gap: 0.8rem;
+  align-items: start;
+}
+.step h3 {
+  grid-column: 2;
+  margin: 0 0 0.25rem;
+}
+.step p {
+  grid-column: 2;
+  margin: 0;
+  color: var(--ink-soft);
+}
 .step::before {
   counter-increment: step;
   content: counter(step, decimal-leading-zero);
+  grid-column: 1;
+  grid-row: 1 / span 2;
   font-family: var(--serif);
   color: var(--accent);
   font-size: 1.2rem;
