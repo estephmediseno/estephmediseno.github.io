@@ -3,7 +3,7 @@ sector:
   es: Fábrica de quesos y productos latinos
   en: Latino cheese and food manufacturer
 city: "Plasencia / Getafe — Madrid"
-period: ""
+period: "14 jul – 21 ago 2026 (segunda ventana)"
 handles:
   instagram: https://www.instagram.com/talaveraselectaoficial/
   tiktok: https://www.tiktok.com/@talaveraselectaoficial
@@ -14,14 +14,14 @@ platforms:
   - Facebook
   - WhatsApp
 followers:
-  instagram: ""
-  tiktok: ""
+  instagram: "92 (al 21 jul)"
+  tiktok: "+170 nuevos en ago (+154 en jul; total no reportado)"
 engagement:
   avg_views_per_post: ""
   median_views_per_post: ""
-  avg_saves_per_post: ""
-  avg_comments_per_post: ""
-  avg_shares_per_post: ""
+  avg_saves_per_post: "48 (IG) · 110 (TT) en ventana ago"
+  avg_comments_per_post: "4 (IG) · 193 (TT) en ventana ago"
+  avg_shares_per_post: "121 (proceso fábrica 23/07 TT)"
   engagement_rate_pct: ""
   save_rate_vs_followers_pct: ""
 reach:
@@ -29,9 +29,9 @@ reach:
   outbound_clicks: ""
   whatsapp_taps: ""
 commerce:
-  store_visits_attributed: ""
-  wholesale_inquiries: ""
-  attribution_method: ""
+  store_visits_attributed: "Sin registro en informes"
+  wholesale_inquiries: "Sin ventas cerradas atribuidas (4 DMs jul; ≈5 DMs TT ago)"
+  attribution_method: "Informes del cliente (DMs con intención de compra/consulta; sin ventas cerradas atribuidas)"
   pct_new_clients_from_social: ""
 seo_social:
   query: ""
