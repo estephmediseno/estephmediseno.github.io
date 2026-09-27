@@ -37,11 +37,11 @@ permalink: /trabajo/suitailor/
 
 <section class="wrap">
   <div class="search-mod">
-    <p class="eyebrow">Búsqueda orgánica en Instagram y TikTok</p>
-    <p class="query">«sastreria en madrid»</p>
+    <p class="eyebrow">Búsqueda orgánica en Instagram</p>
+    <p class="query">«{{ m.seo_social.query }}»</p>
     <p>{{ m.seo_social.observed_rank }}</p>
     <p class="lede-sm">{{ m.seo_social.note_es }}</p>
-    <p class="lede-sm">Comprobación orgánica directa en la aplicación sin pauta publicitaria. Última verificación: {{ m.seo_social.date_checked | dash }}.</p>
+    <p class="lede-sm">Comprobación orgánica directa en la aplicación sin pauta publicitaria. Fecha de verificación: {{ m.seo_social.date_checked }}.</p>
   </div>
 </section>
 

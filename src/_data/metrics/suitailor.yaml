@@ -31,15 +31,14 @@ commerce:
   attribution_method: "Informes de cliente (DMs recibidos; sin atribución de venta cerrada)"
   pct_new_clients_from_social: ""
 seo_social:
-  query: "sastreria en madrid"
+  query: "sastrerias en madrid"
   platforms:
     - Instagram
-    - TikTok
-  observed_rank: "Piezas de @sastreriasuitailor en primeros resultados orgánicos"
-  observed_rank_en: "Posts from @sastreriasuitailor appear in top organic results"
-  date_checked: "Verificación manual en app"
-  note_es: "No es un ranking de Google. Es búsqueda dentro de Instagram y TikTok — el lugar donde un hombre de Madrid escribe exactamente lo que necesita."
-  note_en: "This is not a Google ranking. It is search inside Instagram and TikTok — where a man in Madrid types exactly what he needs."
+  observed_rank: "El 27 de septiembre de 2026, en Instagram, la búsqueda «sastrerias en madrid» abre con Pugil y Suitailor en la primera fila."
+  observed_rank_en: "On 27 September 2026, on Instagram, searching “sastrerias en madrid” opens with Pugil and Suitailor in the first row."
+  date_checked: "2026-09-27"
+  note_es: "Comprobación en cuenta no logueada. No es un ranking de Google. Pendiente TikTok para la misma consulta y la búsqueda en singular («sastreria en madrid»)."
+  note_en: "Logged-out check. Not a Google ranking. TikTok for the same query and Suitailor in the singular (“sastreria en madrid”) remain to be documented."
 sample_post:
   title_es: "Promo 620 € (talla vs. medida, 11–12 jul)"
   title_en: "Promo €620 (ready-to-wear vs. bespoke, 11–12 Jul)"

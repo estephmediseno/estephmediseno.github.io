@@ -30,6 +30,16 @@ permalink: /en/work/brosty/
   <p>The numbers on this case are waiting for Insights. Until then the sheet stays in dashes. A restaurant is not measured in followers; it is measured in tables and in sentences said while ordering.</p>
 </section>
 
+<section class="wrap">
+  <div class="search-mod">
+    <p class="eyebrow">Organic search on Instagram</p>
+    <p class="query">“{{ m.seo_social.query }}”</p>
+    <p>{{ m.seo_social.observed_rank_en }}</p>
+    <p class="lede-sm">{{ m.seo_social.note_en }}</p>
+    <p class="lede-sm">Verification date: {{ m.seo_social.date_checked }}.</p>
+  </div>
+</section>
+
 <div class="wrap">
 {% include "partials/metric-sheet.njk" %}
 </div>

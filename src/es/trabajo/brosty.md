@@ -30,6 +30,16 @@ permalink: /trabajo/brosty/
   <p>Los números de este caso esperan Insights. Hasta entonces la hoja queda en rayas. Un restaurante no se mide en seguidores; se mide en mesas y en frases dichas al pedir.</p>
 </section>
 
+<section class="wrap">
+  <div class="search-mod">
+    <p class="eyebrow">Búsqueda orgánica en Instagram</p>
+    <p class="query">«{{ m.seo_social.query }}»</p>
+    <p>{{ m.seo_social.observed_rank }}</p>
+    <p class="lede-sm">{{ m.seo_social.note_es }}</p>
+    <p class="lede-sm">Fecha de comprobación: {{ m.seo_social.date_checked }}.</p>
+  </div>
+</section>
+
 <div class="wrap">
 {% include "partials/metric-sheet.njk" %}
 </div>

@@ -34,11 +34,12 @@ commerce:
   attribution_method: "Informes del cliente (DMs con intención de compra/consulta; sin ventas cerradas atribuidas)"
   pct_new_clients_from_social: ""
 seo_social:
-  query: ""
-  platforms: []
-  observed_rank: ""
-  observed_rank_en: ""
-  date_checked: ""
-  note_es: ""
-  note_en: ""
+  query: "queso latino en madrid"
+  platforms:
+    - Instagram
+  observed_rank: "El 27 de septiembre de 2026, «queso latino en madrid» abre con un Reel de Talavera Selecta."
+  observed_rank_en: "On 27 September 2026, “queso latino en madrid” opens with a Reel from Talavera Selecta."
+  date_checked: "2026-09-27"
+  note_es: "Comprobación en Instagram en cuenta no logueada. Pendiente comprobación en TikTok."
+  note_en: "Logged-out check on Instagram. TikTok search for this query remains to be documented."
 web_built: true

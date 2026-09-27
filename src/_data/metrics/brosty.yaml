@@ -31,10 +31,11 @@ commerce:
   attribution_method: ""
   pct_new_clients_from_social: ""
 seo_social:
-  query: ""
-  platforms: []
-  observed_rank: ""
-  observed_rank_en: ""
-  date_checked: ""
-  note_es: ""
-  note_en: ""
+  query: "pollo a la broster en madrid"
+  platforms:
+    - Instagram
+  observed_rank: "El 27 de septiembre de 2026, «pollo a la broster en madrid» (Instagram corrige a broaster) muestra a Brosty en la primera pantalla, no en la primera celda. Encima hay una colaboración de pago."
+  observed_rank_en: "On 27 September 2026, “pollo a la broster en madrid” (Instagram autocorrects to broaster) shows Brosty on the first screen, not in the first cell. Above it sits a paid collaboration."
+  date_checked: "2026-09-27"
+  note_es: "Comprobación en Instagram en cuenta no logueada. Muestra presencia en la primera pantalla sin ocupar la primera celda. Pendiente comprobación en TikTok."
+  note_en: "Logged-out check on Instagram. Appears on the first screen without occupying the top cell. TikTok search remains to be documented."
