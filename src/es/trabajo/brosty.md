@@ -11,7 +11,7 @@ permalink: /trabajo/brosty/
 
 <article class="case-hero wrap">
   <p class="eyebrow">Caso · restaurante</p>
-  <h1>Que se oiga el crujido. Que se sepa a qué hora ir.</h1>
+  <h1>Pollo broster colombiano en Madrid. El feed tiene que dar hambre y decir claro dónde estás.</h1>
   <p class="meta">
     <span>Madrid</span>
     <span>Instagram · TikTok</span>
@@ -27,16 +27,15 @@ permalink: /trabajo/brosty/
     <li>Piezas de repetición (el motivo para volver entre semana).</li>
     <li>Cierre: dirección, horario, «te vi en TikTok» en mostrador.</li>
   </ul>
-  <p>Los números de este caso esperan Insights. Hasta entonces la hoja queda en rayas. Un restaurante no se mide en seguidores; se mide en mesas y en frases dichas al pedir.</p>
+  <p>Sin informe todavía. Las cifras se dejan en blanco. Un restaurante no se mide en seguidores; se mide en mesas y en frases dichas al pedir.</p>
 </section>
 
 <section class="wrap">
   <div class="search-mod">
-    <p class="eyebrow">Búsqueda orgánica en Instagram</p>
-    <p class="query">«{{ m.seo_social.query }}»</p>
-    <p>{{ m.seo_social.observed_rank }}</p>
-    <p class="lede-sm">{{ m.seo_social.note_es }}</p>
-    <p class="lede-sm">Fecha de comprobación: {{ m.seo_social.date_checked }}.</p>
+    <p class="eyebrow">Búsqueda en Instagram</p>
+    <p class="query">«pollo a la broster en madrid»</p>
+    <p>El 27 de septiembre de 2026, «pollo a la broster en madrid» (Instagram lo corrige a broaster) muestra a Brosty en la primera pantalla, no en la primera celda. Encima hay una colaboración de pago.</p>
+    <p class="lede-sm">Comprobación en Instagram en cuenta no logueada. Muestra presencia en la primera pantalla sin ocupar la primera celda. Pendiente comprobación en TikTok.</p>
   </div>
 </section>
 

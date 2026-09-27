@@ -2,44 +2,39 @@
 layout: layouts/base.njk
 lang: es
 title: Servicios
-description: Identidad, dirección de contenido y web para negocios locales en Madrid.
+description: Tres maneras de trabajar juntas. Sin carta eterna.
 alt: /en/services/
 permalink: /servicios/
 ---
 
 <section class="hero wrap">
   <p class="eyebrow">Servicios</p>
-  <h1>Tres retenedores. Dos proyectos. Nada de menú infinito.</h1>
+  <h1>Tres maneras de trabajar juntas. Sin carta eterna.</h1>
 </section>
 
 <section class="wrap cards">
   <article class="card">
-    <p class="kicker">Retenedor</p>
+    <p class="kicker">Servicio</p>
     <h3>Identidad y sistema visual</h3>
-    <p>Marca, reglas de foto, tipografía, cómo se ve un producto o un traje sin improvisar cada semana.</p>
+    <p>La marca, cómo se fotografían las cosas, la tipografía y las reglas para que un traje o un queso no se vean distintos cada semana.</p>
   </article>
   <article class="card">
-    <p class="kicker">Retenedor</p>
+    <p class="kicker">Servicio</p>
     <h3>Dirección de contenido</h3>
-    <p>Instagram, TikTok y el caption. Calendario, piezas, palabras de búsqueda, cierre a WhatsApp o cita.</p>
+    <p>Instagram, TikTok y el texto. Calendario, piezas, las palabras de búsqueda y el cierre por WhatsApp o por cita.</p>
   </article>
   <article class="card">
-    <p class="kicker">Retenedor</p>
+    <p class="kicker">Servicio</p>
     <h3>Identidad + contenido + web</h3>
-    <p>Cuando el feed y la página tienen que ser la misma persona. El caso Talavera.</p>
-  </article>
-  <article class="card">
-    <p class="kicker">Proyecto</p>
-    <h3>Web WordPress o Shopify</h3>
-    <p>Sitio que un negocio local puede mantener. Sin tema genérico si se puede evitar.</p>
-  </article>
-  <article class="card">
-    <p class="kicker">Proyecto</p>
-    <h3>Herramienta a medida</h3>
-    <p>Como el personalizador de camisas de Suitailor (Node + Firebase): un objeto que el cliente usa, no una landing.</p>
+    <p>Cuando el feed y la página tienen que parecer la misma persona. Así se trabajó Talavera.</p>
   </article>
 </section>
 
 <section class="section wrap prose">
-  <p>No compro media salvo que se acuerde por escrito. El trabajo de base es orgánico, identidad y sistema.</p>
+  <h2>A parte, cuando hace falta</h2>
+  <ul>
+    <li>Web en WordPress o Shopify, que el negocio pueda tocar sin miedo.</li>
+    <li>O una herramienta a medida, como el personalizador de camisas de Suitailor.</li>
+  </ul>
+  <p>No compro pauta salvo que lo hablemos por escrito. El trabajo de base es orgánico: identidad y constancia.</p>
 </section>

@@ -10,36 +10,22 @@ permalink: /trabajo/talavera-selecta/
 {% set m = metrics.talavera %}
 
 <article class="case-hero wrap">
-  <p class="eyebrow">Caso · fábrica</p>
-  <h1>El feed abre el apetito. La web cierra el mayorista.</h1>
+  <p class="eyebrow">Caso · fábrica + web</p>
+  <h1>Talavera Selecta es fábrica, no solo marca de feed. El queso se ve salir hacia Madrid, y la web existe para quien compra en casa o al por mayor.</h1>
   <p class="meta">
     <span>Plasencia · Getafe</span>
     <span>Instagram · TikTok · Facebook · WhatsApp</span>
     <span><a href="{{ m.handles.web }}">talaveraselecta.es</a></span>
   </p>
-  <p class="lede">Quesos de estilo latino, arepas y cárnicos. Planta de producción propia en Plasencia y almacén logístico en Getafe. Dos públicos objetivos simultáneos: el consumidor particular que busca el sabor de origen, y el profesional que abastece una tienda o un restaurante.</p>
+  <p class="lede">Quesos de estilo latino, arepas y cárnicos. Planta de producción propia en Plasencia y almacén en Getafe. Dos públicos a la vez: quien extraña el sabor de casa y quien compra para una tienda o un restaurante.</p>
 </article>
-
-<section class="wrap prose">
-  <h2>El problema</h2>
-  <p>Una fábrica agroalimentaria no es un club gastronómico de moda. Si el contenido solo busca la emoción del consumidor doméstico, el comprador profesional no encuentra especificaciones técnicas ni seriedad operativa. Si la web solo habla de palés y fichas logísticas, el consumidor final no conecta con la marca.</p>
-
-  <h2>El sistema</h2>
-  <ul>
-    <li><strong>Trastienda y producto real:</strong> contenido centrado en la elaboración en fábrica, empaque a cámara y productos sin artificios de banco de imágenes.</li>
-    <li><strong>Preguntas culturales concretas:</strong> debates de identidad gastronómica con alta retención (ej. «queso al café») frente a recetas largas que pierden audiencia.</li>
-    <li><strong>Canal de cierre estructurado:</strong> WhatsApp configurado como punto de contacto directo para consultas y pedidos comerciales.</li>
-    <li><strong>Sitio web propio (<a href="{{ m.handles.web }}">talaveraselecta.es</a>):</strong> arquitectura, catálogo por categorías, historia de la planta y sección para distribuidores desarrollada íntegramente por mí.</li>
-  </ul>
-</section>
 
 <section class="wrap">
   <div class="search-mod">
-    <p class="eyebrow">Búsqueda orgánica en Instagram</p>
-    <p class="query">«{{ m.seo_social.query }}»</p>
-    <p>{{ m.seo_social.observed_rank }}</p>
-    <p class="lede-sm">{{ m.seo_social.note_es }}</p>
-    <p class="lede-sm">Fecha de comprobación: {{ m.seo_social.date_checked }}.</p>
+    <p class="eyebrow">Búsqueda en Instagram</p>
+    <p class="query">«queso latino en madrid»</p>
+    <p>El 27 de septiembre de 2026, «queso latino en madrid» abre con un Reel de Talavera Selecta.</p>
+    <p class="lede-sm">Comprobación en Instagram en cuenta no logueada. Pendiente comprobación en TikTok.</p>
   </div>
 </section>
 
@@ -49,7 +35,7 @@ permalink: /trabajo/talavera-selecta/
 
 <section class="wrap prose">
   <h2>Evolución por ventanas de informe</h2>
-  <p>Los datos proceden de los dos informes elaborados para el cliente. Los periodos de medición se solapan parcialmente; no se suman visualizaciones para evitar duplicidades entre julio y agosto. El 91% del tráfico de TikTok en la primera ventana provino de la sección «Para ti» (descubrimiento algorítmico, no búsqueda orgánica por palabras clave).</p>
+  <p>Los datos proceden de los dos informes elaborados para el cliente. Los periodos de medición se solapan parcialmente; julio y agosto se leen aparte y nunca se suman. El 91% del tráfico de TikTok en la primera ventana provino de «Para ti» (descubrimiento algorítmico, no búsqueda por palabras clave).</p>
 
   | Ventana | Qué ocurrió en los informes |
   |---|---|
@@ -59,8 +45,8 @@ permalink: /trabajo/talavera-selecta/
   <h2>Patrones identificados en el contenido</h2>
   <p>Los informes demuestran con claridad qué formatos funcionan y cuáles no:</p>
   <ul>
-    <li><strong>Lo que funciona:</strong> mostrar la trastienda de la fábrica, el producto de cerca y plantear preguntas culturales específicas que activan a la comunidad latina en España.</li>
-    <li><strong>Lo que no funciona:</strong> las recetas largas registran caídas acusadas de retención; las preguntas abiertas genéricas en Instagram no generan comentarios.</li>
+    <li><strong>Lo que funciona:</strong> trastienda de fábrica, producto de cerca y preguntas culturales concretas que conectan con la comunidad latina.</li>
+    <li><strong>Lo que no funciona:</strong> recetas largas (caen en retención) y preguntas abiertas genéricas en Instagram (cero comentarios).</li>
   </ul>
 
   <h2>Atribución comercial</h2>

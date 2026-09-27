@@ -9,12 +9,12 @@ permalink: /trabajo/gea/
 
 <article class="case-hero wrap">
   <p class="eyebrow">Caso · identidad visual</p>
-  <h1>Gea es la diosa y el cuerpo: la marca es una curva, no una insignia.</h1>
+  <h1>Gea es un manual de marca para una línea de lencería pensada desde la diversidad corporal. El logo, los colores, las fotos y cómo se ve todo eso en una caja o en un anuncio.</h1>
   <p class="meta">
-    <span>Identidad · manual de marca · dirección de arte</span>
+    <span>Identidad · no redes</span>
     <span>Lovelace + Poppins</span>
   </p>
-  <p class="lede">Manual de marca para una línea de lencería pensada desde la diversidad corporal. Wordmark, paleta cromática, fotografía y aplicaciones. Un sistema visual concebido para funcionar con la misma contundencia en una caja negra de packaging o en una marquesina de metro.</p>
+  <p class="lede">Gea es la diosa y el cuerpo: la marca es una curva, no una insignia. Un sistema visual concebido para funcionar con la misma calma en una caja negra de packaging o en una marquesina de metro.</p>
 </article>
 
 <section class="wrap prose">

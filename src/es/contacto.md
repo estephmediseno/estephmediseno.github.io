@@ -10,7 +10,7 @@ permalink: /contacto/
 <section class="hero wrap">
   <p class="eyebrow">Contacto</p>
   <h1>Un correo. Tres líneas.</h1>
-  <p class="lede">Qué negocio es, en qué ciudad está, qué está roto. Si encaja, contesto.</p>
+  <p class="lede">Qué negocio es, en qué ciudad estás y qué necesitas. Si encaja, te respondo.</p>
   <p><a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
   <a href="{{ site.instagram }}">{{ site.instagramHandle }}</a><br>
   Madrid</p>
