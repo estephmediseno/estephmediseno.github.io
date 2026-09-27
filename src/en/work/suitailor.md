@@ -56,14 +56,24 @@ permalink: /en/work/suitailor/
 </div>
 
 <section class="wrap prose">
+  <h2>Channel progression (what the four client reports show)</h2>
+  <p>Between April and August 2026, the account grew from zero to 911 followers on Instagram. In the July–August window, TikTok generated 28,265 views and 313 saves, with 164 new followers. The single best-performing Instagram piece was the €620 offer: 18,838 accounts reached and 144 saves. Seven people sent direct messages in June–July; in July–August the atelier estimates around eight. The client reports do not attribute closed sales to content. What they do measure is intent: people bookmark what they are actively considering purchasing.</p>
+
+  | Window | Reported outcomes |
+  |---|---|
+  | 20 Apr – 12 May | Launch from zero, without paid ads. TikTok: 10,321 views, 43 saves, 15 new followers (81% from "For You"). Instagram: 1,742 reach, 6 saves. |
+  | May – Jun | Combined saves rise from 49 to 126. TikTok new followers rise from 15 to 51. Key saved pieces: "First time in a tailor shop" and cufflinks. No direct sales attributed. |
+  | 14 Jun – 16 Jul | Peak Instagram month led by a single piece (€620 promo: 18,838 reach and 144 saves). Total IG reach: 28,649. 7 inbound DMs (5 IG + 2 TT). Instagram reaches 534 followers. |
+  | 12 Jul – 28 Aug | TikTok takes lead: 28,265 views, 313 saves, 164 new followers. Instagram records 14,504 reach without a second viral spike, reaching 911 followers on 31 August. ~8 estimated inbound DMs. |
+
   <h2>How to read these numbers</h2>
-  <p>Follower counts do not reflect atelier performance. We monitor qualified search reach, saves per post, profile visits, and appointments attributed to social discovery. Estimated client figures are labelled explicitly. Unverified fields remain marked with an em dash until confirmed.</p>
+  <p>Follower counts do not reflect atelier performance. The client reports do not claim direct closed sales from social content, nor do they treat inbound inquiries as completed transactions. What they rigorously verify is buyer intent: saves on pricing and objection-handling videos, qualified local reach in Madrid, and inbound consultation inquiries.</p>
 
   <h2>Atelier locations</h2>
   <p>Calle de Lope de Rueda 7, Barrio de Salamanca. Calle Mónaco 37, Las Rozas. The strategy addresses both central Madrid and the affluent northwest corridor.</p>
 
   <h2>Next steps</h2>
-  <p>Standardize the consultation guidance video series and maintain consistent attribution tracking for appointments originating from social search.</p>
+  <p>Standardize the consultation guidance video series and track whether inbound direct message inquiries convert into booked in-store consultations.</p>
 </section>
 
 <section class="cta wrap">

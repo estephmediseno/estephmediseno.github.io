@@ -3,7 +3,7 @@ sector:
   es: Sastrería contemporánea para hombre
   en: Contemporary menswear tailoring
 city: Madrid
-period: ""
+period: "12 jul – 28 ago 2026 (última ventana reportada)"
 handles:
   instagram: https://www.instagram.com/sastreriasuitailor/
   tiktok: https://www.tiktok.com/@sastreriasuitailor
@@ -11,44 +11,43 @@ handles:
 platforms:
   - Instagram
   - TikTok
-  - Facebook
 followers:
-  instagram: ""
-  tiktok: ""
+  instagram: "911 (al 31 ago 2026)"
+  tiktok: "+164 en ventana jul–ago (total no reportado)"
 engagement:
   avg_views_per_post: ""
   median_views_per_post: ""
-  avg_saves_per_post: ""
+  avg_saves_per_post: "103 (IG) · 313 (TT) en ventana"
   avg_comments_per_post: ""
-  avg_shares_per_post: ""
+  avg_shares_per_post: "72 (mejor pieza)"
   engagement_rate_pct: ""
   save_rate_vs_followers_pct: ""
 reach:
   profile_visits: ""
   outbound_clicks: ""
 commerce:
-  store_visits_attributed: ""
-  purchases_or_appointments: ""
-  attribution_method: ""
+  store_visits_attributed: "Sin registro en informes"
+  purchases_or_appointments: "Sin ventas cerradas atribuidas (7 DMs jun–jul; ≈8 DMs jul–ago)"
+  attribution_method: "Informes de cliente (DMs recibidos; sin atribución de venta cerrada)"
   pct_new_clients_from_social: ""
 seo_social:
   query: "sastreria en madrid"
   platforms:
     - Instagram
     - TikTok
-  observed_rank: "Las primeras piezas que aparecen son de @sastreriasuitailor"
-  observed_rank_en: "The first posts that appear are from @sastreriasuitailor"
-  date_checked: ""
+  observed_rank: "Piezas de @sastreriasuitailor en primeros resultados orgánicos"
+  observed_rank_en: "Posts from @sastreriasuitailor appear in top organic results"
+  date_checked: "Verificación manual en app"
   note_es: "No es un ranking de Google. Es búsqueda dentro de Instagram y TikTok — el lugar donde un hombre de Madrid escribe exactamente lo que necesita."
   note_en: "This is not a Google ranking. It is search inside Instagram and TikTok — where a man in Madrid types exactly what he needs."
 sample_post:
-  title_es: "¿Primera vez que vienes a una sastrería?"
-  title_en: "First time in a tailor shop?"
-  note_es: "Pieza educativa. Baja la ansiedad de la primera visita. En una muestra pública: más guardados que comentarios."
-  note_en: "Educational piece. Lowers first-visit anxiety. On one public sample: more saves than comments."
-  views: ""
-  likes: ""
-  saves: ""
+  title_es: "Promo 620 € (talla vs. medida, 11–12 jul)"
+  title_en: "Promo €620 (ready-to-wear vs. bespoke, 11–12 Jul)"
+  note_es: "Pieza de objeción de precio. IG: 18.838 alcance, 144 guardados, 72 compartidos. TT: 50% retención, 19 seguidores nuevos."
+  note_en: "Price-objection piece. IG: 18,838 reach, 144 saves, 72 shares. TT: 50% retention, 19 new followers."
+  views: "18.838 alcance IG"
+  likes: "429 (IG)"
+  saves: "144 (IG)"
   comments: ""
 locations:
   - "Calle de Lope de Rueda 7, Barrio de Salamanca"

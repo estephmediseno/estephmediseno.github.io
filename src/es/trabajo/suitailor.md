@@ -57,14 +57,24 @@ permalink: /trabajo/suitailor/
 </div>
 
 <section class="wrap prose">
+  <h2>Evolución del canal (lo que dicen los cuatro informes)</h2>
+  <p>Entre abril y agosto de 2026 la cuenta pasó de cero a 911 seguidores en Instagram. En la ventana de julio–agosto TikTok hizo 28.265 reproducciones y 313 guardados, con 164 seguidores nuevos. La pieza más fuerte de Instagram fue la promo de 620 €: 18.838 cuentas y 144 guardados. Siete personas escribieron por DM en junio–julio; en julio–agosto el taller estima unos ocho. Los informes no atribuyen ventas cerradas al contenido. Lo que sí miden es intención: se guarda lo que se está pensando comprar.</p>
+
+  | Ventana | Qué ocurrió en los informes |
+  |---|---|
+  | 20 abr – 12 may | Desde cero y sin anuncios. TikTok: 10.321 visualizaciones, 43 guardados, 15 nuevos seguidores (81% del tráfico desde «Para ti»). Instagram: 1.742 alcance, 6 guardados. |
+  | may – jun | Guardados combinados suben de 49 a 126. Nuevos seguidores en TikTok suben de 15 a 51. Piezas guardadas: «Primera vez en sastrería» y gemelos. Sin ventas atribuidas. |
+  | 14 jun – 16 jul | Mejor mes en Instagram gracias a una pieza: oferta 620 € (18.838 alcance y 144 guardados). Alcance total IG: 28.649. 7 DMs (5 IG + 2 TT). Instagram alcanza 534 seguidores. |
+  | 12 jul – 28 ago | TikTok toma el relevo: 28.265 visualizaciones, 313 guardados, 164 nuevos seguidores. Instagram: 14.504 alcance sin segundo pico viral; 911 seguidores al 31 de agosto. Aprox. 8 DMs estimados. |
+
   <h2>Cómo leer estos números</h2>
-  <p>El volumen de seguidores no mide la rentabilidad de un taller. Priorizamos las visualizaciones cualificadas, los guardados por pieza, las visitas al perfil y las citas que el negocio atribuye directamente a redes. Si una cifra procede de la estimación del cliente, se indica explícitamente. Las celdas pendientes de datos verificados se mantienen con una raya provisional.</p>
+  <p>El volumen de seguidores no mide la rentabilidad de un taller. Los informes del cliente no atribuyen ventas cerradas directas al contenido ni convierten los mensajes directos en compras automáticas. Lo que sí prueban con rigor es la intención comercial: guardados en piezas de precio y objeción, alcance cualificado en Madrid y consultas privadas entrantes.</p>
 
   <h2>Ubicaciones del atelier</h2>
   <p>Calle de Lope de Rueda 7, Barrio de Salamanca. Calle Mónaco 37, Las Rozas. La estrategia de comunicación atiende tanto el centro de la capital como la zona noroeste.</p>
 
   <h2>Próximos pasos</h2>
-  <p>Consolidar la serie dedicada a la primera cita y establecer un protocolo continuo para registrar la procedencia de nuevas reservas desde Instagram y TikTok.</p>
+  <p>Consolidar la serie dedicada a la primera cita y registrar formalmente si las consultas privadas por mensaje directo se traducen en citas concertadas en el taller.</p>
 </section>
 
 <section class="cta wrap">
