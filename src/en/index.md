@@ -13,7 +13,7 @@ permalink: /en/
   <p class="lede">I do not run a pretty feed. I install the visual and editorial system that lets a neighbourhood business be recognised, appear when someone searches, and convert that attention into an appointment, a counter visit, or an order.</p>
   <div class="proof">
     <p><strong>Three active retainers</strong> Suitailor, Talavera Selecta, Brosty</p>
-    <p><strong>Instagram and TikTok search</strong> “sastreria en madrid” surfaces Suitailor first</p>
+    <p><strong>Instagram search</strong> On 27 September 2026, “sastrerias en madrid” opened with Pugil and Suitailor in the first row</p>
     <p><strong>Web</strong> talaveraselecta.es, angola11.com, fundangola.org</p>
   </div>
 </section>

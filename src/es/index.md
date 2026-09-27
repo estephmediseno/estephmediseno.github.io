@@ -13,7 +13,7 @@ permalink: /
   <p class="lede">No dirijo un feed bonito. Instalo el sistema visual y editorial con el que un negocio local se reconoce, aparece cuando alguien busca, y da el paso a la cita, al mostrador o al pedido.</p>
   <div class="proof">
     <p><strong>Tres clientes activos</strong> Suitailor, Talavera Selecta, Brosty</p>
-    <p><strong>Búsqueda en Instagram y TikTok</strong> «sastreria en madrid» abre con piezas de Suitailor</p>
+    <p><strong>Búsqueda en Instagram</strong> El 27 de septiembre de 2026, «sastrerias en madrid» abre con Pugil y Suitailor en la primera fila</p>
     <p><strong>Web</strong> talaveraselecta.es, angola11.com, fundangola.org</p>
   </div>
 </section>
