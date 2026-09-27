@@ -10,44 +10,44 @@ permalink: /trabajo/suitailor/
 {% set m = metrics.suitailor %}
 
 <article class="case-hero wrap">
-  <p class="eyebrow">Caso · sastrería</p>
-  <h1>Suitailor no necesita volverse viral. Necesita al hombre que ya buscó «sastrería en Madrid».</h1>
+  <p class="eyebrow">Caso · sastrería a medida</p>
+  <h1>Suitailor no busca viralidad: busca al cliente que escribe «sastrería en Madrid» para hacerse un traje.</h1>
   <p class="meta">
     <span>Madrid · Salamanca y Las Rozas</span>
     <span>Instagram · TikTok · Facebook</span>
     <span><a href="{{ m.handles.web }}">suitailor.com</a></span>
   </p>
-  <p class="lede">Sastrería contemporánea para hombre. Traje y camisa a medida, cita previa, dos talleres. El trabajo no es fama. Es que, cuando alguien escribe la búsqueda exacta, la primera pieza que ve sea suya.</p>
+  <p class="lede">Sastrería contemporánea para hombre. Traje y camisa a medida con cita previa en dos talleres de Madrid. El objetivo es directo: cuando un cliente busca un sastre de referencia, la primera respuesta relevante que encuentra en su pantalla es el taller de Suitailor.</p>
 </article>
 
 <section class="wrap prose">
   <h2>El problema</h2>
-  <p>Madrid está lleno de sastrerías con mármol, tijeras y la palabra «artesanal». El cliente de Suitailor no colecciona sastres en el feed. Tiene un evento, un cuerpo y una duda: <em>si entro, ¿me van a complicar la vida?</em></p>
-  <p>El contenido tiene que hacer tres cosas a la vez: parecer el taller (no un set), enseñar el primer paso, y ser encontrable con las palabras que esa persona ya usa.</p>
+  <p>En un sector dominado por códigos tradicionales y citas que a menudo intimidan, el cliente potencial tiene una necesidad concreta (una boda, un evento, renovar vestuario) y una duda clave: <em>si doy el paso y pido cita, ¿cómo es la experiencia?</em></p>
+  <p>El contenido debe cumplir tres funciones simultáneas: reflejar el ambiente real del taller artesanal (sin artificios de plató), explicar con naturalidad el proceso de la primera prueba y posicionarse con los términos de búsqueda exactos que ese cliente utiliza.</p>
 
   <h2>El sistema</h2>
   <ul>
-    <li>Pilares: primera visita, tejido y detalle, proceso a medida, cita clara.</li>
-    <li>Idioma en pantalla y en caption alineado a búsquedas reales: sastrería en Madrid, traje a medida, camisas a medida.</li>
-    <li>Piezas que se guardan — el hombre que aún no reserva, pero va a reservar.</li>
-    <li>Cierre en cita, no en «síguenos».</li>
-    <li>Además del contenido: personalizador de camisas sobre Node y Firebase, para quien ya quiere decidir ojal y tela sin empezar de cero.</li>
+    <li><strong>Pilares temáticos:</strong> cómo preparar la primera visita, selección de tejidos y paños, proceso de confección y reserva directa.</li>
+    <li><strong>Optimización en búsqueda:</strong> terminología en pantalla, audio y descripciones alineada con búsquedas con intención comercial: «sastrería en Madrid», «traje a medida», «camisas a medida».</li>
+    <li><strong>Contenido diseñado para guardar:</strong> piezas explicativas pensadas para el cliente que aún no reserva hoy, pero lo hará en las próximas semanas.</li>
+    <li><strong>Llamada a la acción orientada a la cita:</strong> cada publicación guía hacia la reserva o el asesoramiento directo, evitando fórmulas vacías.</li>
+    <li><strong>Herramienta digital complementaria:</strong> desarrollo de personalizador de camisas a medida sobre Node y Firebase para facilitar la elección de cuello, puño y tejido antes de la visita.</li>
   </ul>
 </section>
 
 <section class="wrap">
   <div class="search-mod">
-    <p class="eyebrow">Búsqueda dentro de Instagram y TikTok</p>
+    <p class="eyebrow">Búsqueda orgánica en Instagram y TikTok</p>
     <p class="query">«sastreria en madrid»</p>
     <p>{{ m.seo_social.observed_rank }}</p>
     <p class="lede-sm">{{ m.seo_social.note_es }}</p>
-    <p class="lede-sm">Ábrelo tú. Es más creíble que cualquier captura enmarcada. Fecha de comprobación: {{ m.seo_social.date_checked | dash }}.</p>
+    <p class="lede-sm">Comprobación orgánica directa en la aplicación sin pauta publicitaria. Última verificación: {{ m.seo_social.date_checked | dash }}.</p>
   </div>
 </section>
 
 <section class="wrap prose">
-  <h2>Por qué importan los guardados</h2>
-  <p>Un like es un gesto. Un guardado es «esto lo voy a usar». En sastrería, el ciclo de compra no es de un sábado. La pieza que se guarda —cómo es la primera visita, qué tela elegir, cuánto tarda un traje— trabaja durante semanas.</p>
+  <h2>Por qué importan los guardados frente a los likes</h2>
+  <p>En sastrería a medida, la decisión de compra no se toma en un fin de semana. Un guardado refleja intención genuina de compra: el cliente que revisa la publicación cuando fija la fecha de su evento o decide renovar su sastrería personal.</p>
   <p>{{ m.sample_post.title_es }}. {{ m.sample_post.note_es }}</p>
 </section>
 
@@ -58,16 +58,16 @@ permalink: /trabajo/suitailor/
 
 <section class="wrap prose">
   <h2>Cómo leer estos números</h2>
-  <p>El número de seguidores no paga un traje. Sirven las vistas que llegan con intención, los guardados por pieza, las visitas al perfil y las citas que el taller puede atribuir. Si una cifra es estimación del cliente, se etiqueta así. Si aún no está pegada en el YAML, la celda queda en raya.</p>
+  <p>El volumen de seguidores no mide la rentabilidad de un taller. Priorizamos las visualizaciones cualificadas, los guardados por pieza, las visitas al perfil y las citas que el negocio atribuye directamente a redes. Si una cifra procede de la estimación del cliente, se indica explícitamente. Las celdas pendientes de datos verificados se mantienen con una raya provisional.</p>
 
-  <h2>Locales</h2>
-  <p>Calle de Lope de Rueda 7, Barrio de Salamanca. Calle Mónaco 37, Las Rozas. El contenido cubre capital y noroeste sin fingir que son el mismo barrio.</p>
+  <h2>Ubicaciones del atelier</h2>
+  <p>Calle de Lope de Rueda 7, Barrio de Salamanca. Calle Mónaco 37, Las Rozas. La estrategia de comunicación atiende tanto el centro de la capital como la zona noroeste.</p>
 
-  <h2>Lo siguiente</h2>
-  <p>Serie estable de primera visita. Medición limpia de citas que mencionan Instagram o TikTok. No más piezas. Mejores piezas, mismas palabras.</p>
+  <h2>Próximos pasos</h2>
+  <p>Consolidar la serie dedicada a la primera cita y establecer un protocolo continuo para registrar la procedencia de nuevas reservas desde Instagram y TikTok.</p>
 </section>
 
 <section class="cta wrap">
-  <h2>¿Tu negocio aparece cuando te buscan — o solo cuando lo abre un amigo?</h2>
+  <h2>¿Tu negocio aparece cuando buscan tus servicios o solo cuando alguien visita tu perfil?</h2>
   <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
 </section>
