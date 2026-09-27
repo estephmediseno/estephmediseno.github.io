@@ -1,0 +1,15 @@
+{
+  "name": "estephmed-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Portfolio of Estefani Medina — identity, social systems, and websites. Markdown-editable, bilingual, GitHub Pages.",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "js-yaml": "^4.1.0"
+  }
+}

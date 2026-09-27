@@ -1,0 +1,44 @@
+client: Talavera Selecta
+sector:
+  es: Fábrica de quesos y productos latinos
+  en: Latino cheese and food manufacturer
+city: "Plasencia / Getafe — Madrid"
+period: ""
+handles:
+  instagram: https://www.instagram.com/talaveraselectaoficial/
+  tiktok: https://www.tiktok.com/@talaveraselectaoficial
+  web: https://talaveraselecta.es/
+platforms:
+  - Instagram
+  - TikTok
+  - Facebook
+  - WhatsApp
+followers:
+  instagram: ""
+  tiktok: ""
+engagement:
+  avg_views_per_post: ""
+  median_views_per_post: ""
+  avg_saves_per_post: ""
+  avg_comments_per_post: ""
+  avg_shares_per_post: ""
+  engagement_rate_pct: ""
+  save_rate_vs_followers_pct: ""
+reach:
+  profile_visits: ""
+  outbound_clicks: ""
+  whatsapp_taps: ""
+commerce:
+  store_visits_attributed: ""
+  wholesale_inquiries: ""
+  attribution_method: ""
+  pct_new_clients_from_social: ""
+seo_social:
+  query: ""
+  platforms: []
+  observed_rank: ""
+  observed_rank_en: ""
+  date_checked: ""
+  note_es: ""
+  note_en: ""
+web_built: true

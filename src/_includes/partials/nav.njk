@@ -1,0 +1,22 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="wordmark" href="{% if lang == 'en' %}{{ '/en/' | url }}{% else %}{{ '/' | url }}{% endif %}">{{ site.name }}</a>
+    <nav class="nav" aria-label="{{ 'Principal' if lang != 'en' else 'Primary' }}">
+      {% if lang == 'en' %}
+        <a href="{{ '/en/' | url }}">Home</a>
+        <a href="{{ '/en/work/' | url }}">Work</a>
+        <a href="{{ '/en/services/' | url }}">Services</a>
+        <a href="{{ '/en/about/' | url }}">About</a>
+        <a href="{{ '/en/contact/' | url }}">Contact</a>
+        <a class="lang" href="{{ alt or '/' | url }}" hreflang="es" lang="es">ES</a>
+      {% else %}
+        <a href="{{ '/' | url }}">Inicio</a>
+        <a href="{{ '/trabajo/' | url }}">Trabajo</a>
+        <a href="{{ '/servicios/' | url }}">Servicios</a>
+        <a href="{{ '/sobre/' | url }}">Sobre</a>
+        <a href="{{ '/contacto/' | url }}">Contacto</a>
+        <a class="lang" href="{{ alt or '/en/' | url }}" hreflang="en" lang="en">EN</a>
+      {% endif %}
+    </nav>
+  </div>
+</header>

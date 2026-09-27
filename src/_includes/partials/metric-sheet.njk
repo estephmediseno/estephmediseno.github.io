@@ -1,0 +1,63 @@
+{# Expects: m = metrics object, lang = 'es' | 'en' #}
+<section class="sheet" aria-labelledby="metrics-title">
+  <div class="sheet-head">
+    <h2 id="metrics-title">{{ 'Hoja de medida' if lang != 'en' else 'Measurement sheet' }}</h2>
+    <p class="lede-sm">
+      {% if lang == 'en' %}
+        Empty cells stay as em dashes until Insights are pasted into the YAML. A blank cell is more honest than a made-up percentage.
+      {% else %}
+        Las celdas vacías se muestran como raya hasta pegar Insights en el YAML. Una celda en blanco es más honesta que un porcentaje inventado.
+      {% endif %}
+    </p>
+  </div>
+
+  <div class="sheet-grid">
+    <article>
+      <h3>{{ 'Cuentas' if lang != 'en' else 'Accounts' }}</h3>
+      <dl>
+        <div><dt>Instagram</dt><dd>{{ m.followers.instagram | dash }}</dd></div>
+        <div><dt>TikTok</dt><dd>{{ m.followers.tiktok | dash }}</dd></div>
+        <div><dt>{{ 'Periodo' if lang != 'en' else 'Period' }}</dt><dd>{{ m.period | dash }}</dd></div>
+      </dl>
+    </article>
+
+    <article>
+      <h3>{{ 'Calidad del contenido' if lang != 'en' else 'Content quality' }}</h3>
+      <dl>
+        <div><dt>{{ 'Vistas / pieza (media)' if lang != 'en' else 'Views / post (avg)' }}</dt><dd>{{ m.engagement.avg_views_per_post | dash }}</dd></div>
+        <div><dt>{{ 'Vistas / pieza (mediana)' if lang != 'en' else 'Views / post (median)' }}</dt><dd>{{ m.engagement.median_views_per_post | dash }}</dd></div>
+        <div><dt>{{ 'Guardados / pieza' if lang != 'en' else 'Saves / post' }}</dt><dd>{{ m.engagement.avg_saves_per_post | dash }}</dd></div>
+        <div><dt>{{ 'Comentarios / pieza' if lang != 'en' else 'Comments / post' }}</dt><dd>{{ m.engagement.avg_comments_per_post | dash }}</dd></div>
+        <div><dt>{{ 'Compartidos / pieza' if lang != 'en' else 'Shares / post' }}</dt><dd>{{ m.engagement.avg_shares_per_post | dash }}</dd></div>
+        <div><dt>{{ 'Guardados vs seguidores' if lang != 'en' else 'Saves vs followers' }}</dt><dd>{{ m.engagement.save_rate_vs_followers_pct | dash }}{% if m.engagement.save_rate_vs_followers_pct %}%{% endif %}</dd></div>
+      </dl>
+    </article>
+
+    <article>
+      <h3>{{ 'Intención' if lang != 'en' else 'Intent' }}</h3>
+      <dl>
+        <div><dt>{{ 'Visitas al perfil' if lang != 'en' else 'Profile visits' }}</dt><dd>{{ m.reach.profile_visits | dash }}</dd></div>
+        <div><dt>{{ 'Clics de salida' if lang != 'en' else 'Outbound taps' }}</dt><dd>{{ m.reach.outbound_clicks | dash }}</dd></div>
+        {% if m.reach.whatsapp_taps %}
+        <div><dt>WhatsApp</dt><dd>{{ m.reach.whatsapp_taps | dash }}</dd></div>
+        {% endif %}
+      </dl>
+    </article>
+
+    <article>
+      <h3>{{ 'Comercio' if lang != 'en' else 'Commerce' }}</h3>
+      <dl>
+        <div><dt>{{ 'Visitas al local' if lang != 'en' else 'Store visits' }}</dt><dd>{{ m.commerce.store_visits_attributed | dash }}</dd></div>
+        <div><dt>{{ 'Citas / compras' if lang != 'en' else 'Appointments / sales' }}</dt><dd>{{ m.commerce.purchases_or_appointments | dash }}</dd></div>
+        {% if m.commerce.wholesale_inquiries %}
+        <div><dt>{{ 'Consultas mayoristas' if lang != 'en' else 'Wholesale inquiries' }}</dt><dd>{{ m.commerce.wholesale_inquiries | dash }}</dd></div>
+        {% endif %}
+        {% if m.commerce.te_vi_en_tiktok %}
+        <div><dt>{{ '«Te vi en TikTok»' if lang != 'en' else '“Saw you on TikTok”' }}</dt><dd>{{ m.commerce.te_vi_en_tiktok | dash }}</dd></div>
+        {% endif %}
+        <div><dt>{{ '% clientes nuevos vía social' if lang != 'en' else '% new clients via social' }}</dt><dd>{{ m.commerce.pct_new_clients_from_social | dash }}</dd></div>
+        <div><dt>{{ 'Cómo se midió' if lang != 'en' else 'How it was counted' }}</dt><dd>{{ m.commerce.attribution_method | dash }}</dd></div>
+      </dl>
+    </article>
+  </div>
+</section>

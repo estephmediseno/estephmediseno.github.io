@@ -1,0 +1,55 @@
+client: Suitailor
+sector:
+  es: Sastrería contemporánea para hombre
+  en: Contemporary menswear tailoring
+city: Madrid
+period: ""
+handles:
+  instagram: https://www.instagram.com/sastreriasuitailor/
+  tiktok: https://www.tiktok.com/@sastreriasuitailor
+  web: https://www.suitailor.com/
+platforms:
+  - Instagram
+  - TikTok
+  - Facebook
+followers:
+  instagram: ""
+  tiktok: ""
+engagement:
+  avg_views_per_post: ""
+  median_views_per_post: ""
+  avg_saves_per_post: ""
+  avg_comments_per_post: ""
+  avg_shares_per_post: ""
+  engagement_rate_pct: ""
+  save_rate_vs_followers_pct: ""
+reach:
+  profile_visits: ""
+  outbound_clicks: ""
+commerce:
+  store_visits_attributed: ""
+  purchases_or_appointments: ""
+  attribution_method: ""
+  pct_new_clients_from_social: ""
+seo_social:
+  query: "sastreria en madrid"
+  platforms:
+    - Instagram
+    - TikTok
+  observed_rank: "Las primeras piezas que aparecen son de @sastreriasuitailor"
+  observed_rank_en: "The first posts that appear are from @sastreriasuitailor"
+  date_checked: ""
+  note_es: "No es un ranking de Google. Es búsqueda dentro de Instagram y TikTok — el lugar donde un hombre de Madrid escribe exactamente lo que necesita."
+  note_en: "This is not a Google ranking. It is search inside Instagram and TikTok — where a man in Madrid types exactly what he needs."
+sample_post:
+  title_es: "¿Primera vez que vienes a una sastrería?"
+  title_en: "First time in a tailor shop?"
+  note_es: "Pieza educativa. Baja la ansiedad de la primera visita. En una muestra pública: más guardados que comentarios."
+  note_en: "Educational piece. Lowers first-visit anxiety. On one public sample: more saves than comments."
+  views: ""
+  likes: ""
+  saves: ""
+  comments: ""
+locations:
+  - "Calle de Lope de Rueda 7, Barrio de Salamanca"
+  - "Calle Mónaco 37, Las Rozas"
