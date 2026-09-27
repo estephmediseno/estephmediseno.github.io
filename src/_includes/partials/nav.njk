@@ -1,6 +1,9 @@
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="wordmark" href="{% if lang == 'en' %}{{ '/en/' | url }}{% else %}{{ '/' | url }}{% endif %}">{{ site.name }}</a>
+    <a class="wordmark" href="{% if lang == 'en' %}{{ '/en/' | url }}{% else %}{{ '/' | url }}{% endif %}">
+      <img class="mark" src="{{ '/assets/favicon-32.png' | url }}" width="28" height="28" alt="">
+      {{ site.name }}
+    </a>
     <nav class="nav" aria-label="{{ 'Principal' if lang != 'en' else 'Primary' }}">
       {% if lang == 'en' %}
         <a href="{{ '/en/' | url }}">Home</a>
